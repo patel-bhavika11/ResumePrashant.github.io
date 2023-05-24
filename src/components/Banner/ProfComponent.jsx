@@ -17,14 +17,14 @@ const ProfComponent = () => {
           <div>
             I've Worked as Quality Control Engineer with,
             <b> LT HEAVY ENGINEERING</b>
-            [LT SUPPLY - Shree Krishna Engineers] Since JAN-2022 to till Date.
+            [LT SUPPLY - Shree Krishna Engineers] Since Jan-2022 to till Date.
           </div>
           <br />
           <div>
             I've Worked as Quality Control Supervisor with,
             <b> R.K FABRICATION</b>
             [Side Works- Larsen & Toubro Ltd. Hazira Manufacturing Complex]
-            Since JULY. 2020 to DEC.2021.
+            Since July. 2020 to DEC.2021.
           </div>
         </Texts>
       </Slide>
