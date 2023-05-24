@@ -27,8 +27,7 @@ const Footer = () => {
           </Slide>
           <Slide direction="left">
             <p>
-              7/2477, SAIYADPURA, UBHISHERI, NEAR RAMPURA PETROL PUMP, SURAT
-              395003
+              7/2477, SAIYADPURA, UBHISHERI, NEAR RAMPURA PETROL PUMP, SURAT.
             </p>
           </Slide>
         </div>
