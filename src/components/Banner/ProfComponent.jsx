@@ -13,14 +13,6 @@ const ProfComponent = () => {
           </h4>
           <h1 className="green">Prashant Mistry</h1>
           <h3>Mechanical Engineer</h3>
-          <div>
-            Skilled Mechanical Engineering Graduate seeking a job in a leading
-            organization where my skills in applying theoretical knowledge into
-            practical field and analytical thinking would aid the organization.
-            To be part of an organization where I can fully utilize my skills
-            and make a significant contribution to the employer and at the same
-            time my individual growth.
-          </div>
           <br />
           <div>
             I've Worked as Quality Control Engineer with,
